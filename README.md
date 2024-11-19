@@ -1,5 +1,8 @@
-## Hi there 👋
+# Jmarped0211
 
+## Quién soy
+
+Estudiante de CyR.
 
 **Jmarped0211/Jmarped0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
